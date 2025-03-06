@@ -1,0 +1,9 @@
+{
+	"name": "kavindata",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "316cf074-9192-4b9c-b7d0-6c9b89e38734",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
